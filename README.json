@@ -1,0 +1,342 @@
+{
+  "items": [
+    {
+      "description": "Software development industry is growing faster than ever in Kazakhstan. Despite the fact that it was introduced not that long ago in our country, there are already developers who managed to contribute to the worldwide community by making open-source projects and contributing to them.\nYet maybe there are not that many of them, but we need to understand that the open-source software culture is only emerging in our country and we need to support it.\nGoal of this list is to foster open-source & software engineering culture in Kazakhstan by highlighting the Kazakhstani part of your , , , & etc.\nA lot of developers in Kazakhstan do not know about awesome projects made by their fellow countrymen, yet it undoubtedly warms your heart when you see that one of our developers made a piece of software that helps & used by people out there in the world.",
+      "items": [],
+      "title": "Motivation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fastapi-best-practices by Yerassyl Zhanymkanov",
+          "description": "FastAPI Best Practices",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-03T18:11:59Z",
+            "owner": "zhanymkanov",
+            "repo": "fastapi-best-practices",
+            "stars": 17888
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zen by Ansar Smagulov",
+          "description": "and Sultan Momynov Zen is a simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T21:39:38Z",
+            "owner": "irbis-sh",
+            "repo": "zen-desktop",
+            "stars": 4115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Higgsfield by Yerzat Dulat",
+          "description": "and Omar Änwar Fault-tolerant, highly scalable cluster management, and a machine learning framework designed for training models with billions to trillions of parameters",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-05-25T17:43:07Z",
+            "owner": "higgsfield-ai",
+            "repo": "higgsfield",
+            "stars": 4060
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sqlite-orm by Yevgeniy Zakharov",
+          "description": "SQLite ORM light header only library for modern C++",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T20:21:35Z",
+            "owner": "fnc12",
+            "repo": "sqlite_orm",
+            "stars": 2687
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-git-hooks by Islam Temirbek",
+          "description": "A curated list of awesome Git hooks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-19T11:34:43Z",
+            "owner": "aitemr",
+            "repo": "awesome-git-hooks",
+            "stars": 974
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "algos by Adilet Zhaxybay",
+          "description": "Collection of different algorithms, used for programming competitions like ACM ICPC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2020-12-16T02:43:17Z",
+            "owner": "ADJA",
+            "repo": "algos",
+            "stars": 730
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TabBar by Tamerlan Satualdypov",
+          "description": "TabBar – highly customizable tab bar (i.e. TabView) for your SwiftUI application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-08-04T16:54:42Z",
+            "owner": "onl1ner",
+            "repo": "TabBar",
+            "stars": 470
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AAShareBubbles by Almas Adilbek",
+          "description": "Animated Social share buttons control for iOS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2018-03-02T17:41:14Z",
+            "owner": "mixdesign",
+            "repo": "AAShareBubbles",
+            "stars": 392
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Equinox by Erzhan",
+          "description": "Flutter UI library based on Eva Design System",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2020-05-07T13:55:45Z",
+            "owner": "kekland",
+            "repo": "equinox",
+            "stars": 332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NCANode by Malik Zharykov",
+          "description": "EDS Sign server created with Kalkancrypt libraries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-07T07:16:31Z",
+            "owner": "ncanode-kz",
+            "repo": "NCANode",
+            "stars": 315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "meteor-rethinkdb by Slava Kim",
+          "description": "RethinkDB integration for Meteor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-07-02T05:03:19Z",
+            "owner": "Slava",
+            "repo": "meteor-rethinkdb",
+            "stars": 302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tern-meteor-sublime by Slava Kim",
+          "description": "Meteor Framework autocompletion for Sublime",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-03-29T10:38:48Z",
+            "owner": "Slava",
+            "repo": "tern-meteor-sublime",
+            "stars": 245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SubscriptionPrompt by Binur Konarbai",
+          "description": "Subscription View Controller like the Tinder uses",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2022-04-07T06:26:55Z",
+            "owner": "binchik",
+            "repo": "SubscriptionPrompt",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nextjs-sitemap by Sergey Myssak",
+          "description": "and Andrey MyssakGenerate dynamic sitemap.xml for Next.js projects following the example of Google!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-09-15T06:02:52Z",
+            "owner": "SergeyMyssak",
+            "repo": "nextjs-sitemap",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-native-code-verification by Danagul Otel",
+          "description": "Simple UI for pincode verification",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-04-29T21:18:16Z",
+            "owner": "danchokobo",
+            "repo": "react-native-code-verification",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AYStepperView by Ayan Yenbekbay",
+          "description": "A simple customizable stepper view written in Objective C",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Objective-C",
+            "last_commit": "2015-12-01T10:04:39Z",
+            "owner": "yenbekbay",
+            "repo": "AYStepperView",
+            "stars": 108
+          }
+        }
+      ],
+      "title": "> 100 ⭐️"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Parallax Podcast by Sanzhar Zhangaliyev",
+          "description": "Parallax is an open-source AI platform solution that gives users the power to generate their own podcasts, audiobooks, and audio articles from prompts, documents, images and web search.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-11T18:21:10Z",
+            "owner": "iboughtbed",
+            "repo": "ai-podcast",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laddy by Temirzhan Yussupov",
+          "description": "Hand-picked problems for your Codeforces rating",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-11T22:25:58Z",
+            "owner": "ironsoul0",
+            "repo": "laddy",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sozdik-android by Askar Syzdykov",
+          "description": "Online Kazakh-2-Russian (and vice versa) dictionary",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2022-11-08T19:24:45Z",
+            "owner": "sozdik-kz",
+            "repo": "sozdik-android",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Taza by Beknar Danabek",
+          "description": "CLI tool to keep your iOS project clean",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-10-09T13:33:47Z",
+            "owner": "danabeknar",
+            "repo": "taza",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eng-Kk-Tech-Dictionary by Mukhammedali Muratkhan",
+          "description": "English-Kazakh Dictionary of IT terms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-05-20T10:07:37Z",
+            "owner": "son-of-Altay",
+            "repo": "eng-kk-tech-dictionary",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leetcoder by Temir Yerlan",
+          "description": "Chrome extension adds sorting to leetcode.com problems",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-03T13:33:02Z",
+            "owner": "yerlantemir",
+            "repo": "leetcoder",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Promising"
+    },
+    {
+      "description": "This repository was inspired by similar curated lists from Russia and Brazil. All original idea credit goes to authors.",
+      "items": [],
+      "title": "Credits"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:15:59.935Z",
+    "original_repository": "nugmanoff/awesome-made-in-kz",
+    "original_repository_sha": "ac82d228a749def7b504dcc0d9a4715f5b74b543",
+    "enhanced_repository": "enhansome/enhansome-made-in-kz",
+    "enhanced_repository_description": null,
+    "title": "🇰🇿 Awesome Made in Kazakhstan with stars"
+  }
+}
