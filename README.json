@@ -19,7 +19,7 @@
             "last_commit": "2026-05-03T18:11:59Z",
             "owner": "zhanymkanov",
             "repo": "fastapi-best-practices",
-            "stars": 17897
+            "stars": 17900
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-08-13T21:30:46Z",
             "owner": "irbis-sh",
             "repo": "zen-desktop",
-            "stars": 4123
+            "stars": 4124
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2024-05-25T17:43:07Z",
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 4069
+            "stars": 4072
           }
         },
         {
@@ -58,10 +58,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T12:25:39Z",
+            "last_commit": "2026-08-15T11:28:17Z",
             "owner": "fnc12",
             "repo": "sqlite_orm",
-            "stars": 2689
+            "stars": 2690
           }
         },
         {
@@ -332,7 +332,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T12:32:29.850Z",
+    "last_updated": "2026-08-15T12:10:16.907Z",
     "original_repository": "nugmanoff/awesome-made-in-kz",
     "original_repository_sha": "ac82d228a749def7b504dcc0d9a4715f5b74b543",
     "enhanced_repository": "enhansome/enhansome-made-in-kz",
