@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "Software development industry is growing faster than ever in Kazakhstan. Despite the fact that it was introduced not that long ago in our country, there are already developers who managed to contribute to the worldwide community by making open-source projects and contributing to them.\nYet maybe there are not that many of them, but we need to understand that the open-source software culture is only emerging in our country and we need to support it.\nGoal of this list is to foster open-source & software engineering culture in Kazakhstan by highlighting the Kazakhstani part of your , , , & etc.\nA lot of developers in Kazakhstan do not know about awesome projects made by their fellow countrymen, yet it undoubtedly warms your heart when you see that one of our developers made a piece of software that helps & used by people out there in the world.",
-      "items": [],
-      "title": "Motivation"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 522822986,
             "language": null,
             "last_commit": "2026-05-03T18:11:59Z",
             "owner": "zhanymkanov",
             "repo": "fastapi-best-practices",
-            "stars": 17914
+            "stars": 17923
           }
         },
         {
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 646089579,
             "language": "Go",
             "last_commit": "2026-08-13T21:30:46Z",
             "owner": "irbis-sh",
@@ -43,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 134999697,
             "language": "Jupyter Notebook",
             "last_commit": "2024-05-25T17:43:07Z",
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 4081
+            "stars": 4087
           }
         },
         {
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76951323,
             "language": "C++",
             "last_commit": "2026-08-15T13:49:09Z",
             "owner": "fnc12",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159375334,
             "language": "Shell",
             "last_commit": "2026-01-19T11:34:43Z",
             "owner": "aitemr",
@@ -85,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19974229,
             "language": "C++",
             "last_commit": "2020-12-16T02:43:17Z",
             "owner": "ADJA",
@@ -99,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 404404451,
             "language": "Swift",
             "last_commit": "2024-08-04T16:54:42Z",
             "owner": "onl1ner",
@@ -113,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7080318,
             "language": "Objective-C",
             "last_commit": "2018-03-02T17:41:14Z",
             "owner": "mixdesign",
@@ -127,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 192744060,
             "language": "Dart",
             "last_commit": "2020-05-07T13:55:45Z",
             "owner": "kekland",
@@ -141,11 +145,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153664167,
             "language": "Java",
             "last_commit": "2026-08-07T07:16:31Z",
             "owner": "ncanode-kz",
             "repo": "NCANode",
-            "stars": 316
+            "stars": 318
           }
         },
         {
@@ -155,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34434221,
             "language": "JavaScript",
             "last_commit": "2016-07-02T05:03:19Z",
             "owner": "Slava",
@@ -169,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32203587,
             "language": "Python",
             "last_commit": "2016-03-29T10:38:48Z",
             "owner": "Slava",
@@ -183,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57971071,
             "language": "Swift",
             "last_commit": "2022-04-07T06:26:55Z",
             "owner": "binchik",
@@ -197,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 275585532,
             "language": "TypeScript",
             "last_commit": "2021-09-15T06:02:52Z",
             "owner": "SergeyMyssak",
@@ -211,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136135339,
             "language": "JavaScript",
             "last_commit": "2019-04-29T21:18:16Z",
             "owner": "danchokobo",
@@ -225,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 47180587,
             "language": "Objective-C",
             "last_commit": "2015-12-01T10:04:39Z",
             "owner": "yenbekbay",
@@ -236,7 +247,7 @@
       "title": "> 100 ⭐️"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -245,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 818669695,
             "language": "TypeScript",
             "last_commit": "2025-12-11T18:21:10Z",
             "owner": "iboughtbed",
@@ -259,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 220262025,
             "language": "TypeScript",
             "last_commit": "2023-01-11T22:25:58Z",
             "owner": "ironsoul0",
@@ -273,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 290830901,
             "language": "Kotlin",
             "last_commit": "2022-11-08T19:24:45Z",
             "owner": "sozdik-kz",
@@ -287,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 288367547,
             "language": "Swift",
             "last_commit": "2020-10-09T13:33:47Z",
             "owner": "danabeknar",
@@ -301,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 792467801,
             "language": null,
             "last_commit": "2024-05-20T10:07:37Z",
             "owner": "son-of-Altay",
@@ -315,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 271122909,
             "language": "JavaScript",
             "last_commit": "2020-07-03T13:33:02Z",
             "owner": "yerlantemir",
@@ -324,16 +341,12 @@
         }
       ],
       "title": "Promising"
-    },
-    {
-      "description": "This repository was inspired by similar curated lists from Russia and Brazil. All original idea credit goes to authors.",
-      "items": [],
-      "title": "Credits"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T12:16:15.265Z",
+    "last_updated": "2026-08-19T12:26:49.980Z",
     "original_repository": "nugmanoff/awesome-made-in-kz",
+    "original_repository_id": 300057700,
     "original_repository_sha": "ac82d228a749def7b504dcc0d9a4715f5b74b543",
     "enhanced_repository": "enhansome/enhansome-made-in-kz",
     "enhanced_repository_description": null,
