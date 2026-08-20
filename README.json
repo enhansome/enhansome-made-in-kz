@@ -15,7 +15,7 @@
             "last_commit": "2026-05-03T18:11:59Z",
             "owner": "zhanymkanov",
             "repo": "fastapi-best-practices",
-            "stars": 17923
+            "stars": 17927
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-13T21:30:46Z",
             "owner": "irbis-sh",
             "repo": "zen-desktop",
-            "stars": 4134
+            "stars": 4135
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-05-25T17:43:07Z",
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 4087
+            "stars": 4090
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-01-19T11:34:43Z",
             "owner": "aitemr",
             "repo": "awesome-git-hooks",
-            "stars": 976
+            "stars": 977
           }
         },
         {
@@ -344,7 +344,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:26:49.980Z",
+    "last_updated": "2026-08-20T12:18:18.271Z",
     "original_repository": "nugmanoff/awesome-made-in-kz",
     "original_repository_id": 300057700,
     "original_repository_sha": "ac82d228a749def7b504dcc0d9a4715f5b74b543",
