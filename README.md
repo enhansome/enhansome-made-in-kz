@@ -14,11 +14,11 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
 
 ## > 100 ⭐️
 
-* **[fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) ⭐ 17,949 | 🐛 15 | 📅 2026-05-03** by [Yerassyl Zhanymkanov](https://github.com/zhanymkanov)<br>
+* **[fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) ⭐ 17,950 | 🐛 15 | 📅 2026-05-03** by [Yerassyl Zhanymkanov](https://github.com/zhanymkanov)<br>
   FastAPI Best Practices<br>
   ![Stars](https://img.shields.io/github/stars/zhanymkanov/fastapi-best-practices?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[Zen](https://github.com/ZenPrivacy/zen-desktop) ⭐ 4,159 | 🐛 14 | 🌐 Go | 📅 2026-08-22** by [Ansar Smagulov](https://github.com/anfragment) and [Sultan Momynov](https://github.com/AitakattaSora)<br>
+* **[Zen](https://github.com/ZenPrivacy/zen-desktop) ⭐ 4,163 | 🐛 14 | 🌐 Go | 📅 2026-08-22** by [Ansar Smagulov](https://github.com/anfragment) and [Sultan Momynov](https://github.com/AitakattaSora)<br>
   Zen is a simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux<br>
   ![Stars](https://img.shields.io/github/stars/ZenPrivacy/zen-desktop?style=flat-square\&color=fec604\&labelColor=00b0cb)
 

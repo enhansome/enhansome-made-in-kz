@@ -5,8 +5,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "fastapi-best-practices by Yerassyl Zhanymkanov",
-          "description": "FastAPI Best Practices",
+          "title": "fastapi-best-practices",
+          "description": "by Yerassyl Zhanymkanov FastAPI Best Practices",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,13 +15,13 @@
             "last_commit": "2026-05-03T18:11:59Z",
             "owner": "zhanymkanov",
             "repo": "fastapi-best-practices",
-            "stars": 17949
+            "stars": 17950
           }
         },
         {
           "node_type": "item",
-          "title": "Zen by Ansar Smagulov",
-          "description": "and Sultan Momynov Zen is a simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux",
+          "title": "Zen",
+          "description": "by Ansar Smagulov and Sultan Momynov Zen is a simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -30,13 +30,13 @@
             "last_commit": "2026-08-22T22:16:10Z",
             "owner": "irbis-sh",
             "repo": "zen-desktop",
-            "stars": 4159
+            "stars": 4163
           }
         },
         {
           "node_type": "item",
-          "title": "Higgsfield by Yerzat Dulat",
-          "description": "and Omar Änwar Fault-tolerant, highly scalable cluster management, and a machine learning framework designed for training models with billions to trillions of parameters",
+          "title": "Higgsfield",
+          "description": "by Yerzat Dulat and Omar Änwar Fault-tolerant, highly scalable cluster management, and a machine learning framework designed for training models with billions to trillions of parameters",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -50,8 +50,8 @@
         },
         {
           "node_type": "item",
-          "title": "sqlite-orm by Yevgeniy Zakharov",
-          "description": "SQLite ORM light header only library for modern C++",
+          "title": "sqlite-orm",
+          "description": "by Yevgeniy Zakharov SQLite ORM light header only library for modern C++",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -65,8 +65,8 @@
         },
         {
           "node_type": "item",
-          "title": "awesome-git-hooks by Islam Temirbek",
-          "description": "A curated list of awesome Git hooks",
+          "title": "awesome-git-hooks",
+          "description": "by Islam Temirbek A curated list of awesome Git hooks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -80,8 +80,8 @@
         },
         {
           "node_type": "item",
-          "title": "algos by Adilet Zhaxybay",
-          "description": "Collection of different algorithms, used for programming competitions like ACM ICPC.",
+          "title": "algos",
+          "description": "by Adilet Zhaxybay Collection of different algorithms, used for programming competitions like ACM ICPC.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -95,8 +95,8 @@
         },
         {
           "node_type": "item",
-          "title": "TabBar by Tamerlan Satualdypov",
-          "description": "TabBar – highly customizable tab bar (i.e. TabView) for your SwiftUI application.",
+          "title": "TabBar",
+          "description": "by Tamerlan Satualdypov TabBar – highly customizable tab bar (i.e. TabView) for your SwiftUI application.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -110,8 +110,8 @@
         },
         {
           "node_type": "item",
-          "title": "AAShareBubbles by Almas Adilbek",
-          "description": "Animated Social share buttons control for iOS",
+          "title": "AAShareBubbles",
+          "description": "by Almas Adilbek Animated Social share buttons control for iOS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -125,8 +125,8 @@
         },
         {
           "node_type": "item",
-          "title": "Equinox by Erzhan",
-          "description": "Flutter UI library based on Eva Design System",
+          "title": "Equinox",
+          "description": "by Erzhan Flutter UI library based on Eva Design System",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -140,8 +140,8 @@
         },
         {
           "node_type": "item",
-          "title": "NCANode by Malik Zharykov",
-          "description": "EDS Sign server created with Kalkancrypt libraries",
+          "title": "NCANode",
+          "description": "by Malik Zharykov EDS Sign server created with Kalkancrypt libraries",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -155,8 +155,8 @@
         },
         {
           "node_type": "item",
-          "title": "meteor-rethinkdb by Slava Kim",
-          "description": "RethinkDB integration for Meteor",
+          "title": "meteor-rethinkdb",
+          "description": "by Slava Kim RethinkDB integration for Meteor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -170,8 +170,8 @@
         },
         {
           "node_type": "item",
-          "title": "tern-meteor-sublime by Slava Kim",
-          "description": "Meteor Framework autocompletion for Sublime",
+          "title": "tern-meteor-sublime",
+          "description": "by Slava Kim Meteor Framework autocompletion for Sublime",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -185,8 +185,8 @@
         },
         {
           "node_type": "item",
-          "title": "SubscriptionPrompt by Binur Konarbai",
-          "description": "Subscription View Controller like the Tinder uses",
+          "title": "SubscriptionPrompt",
+          "description": "by Binur Konarbai Subscription View Controller like the Tinder uses",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -200,8 +200,8 @@
         },
         {
           "node_type": "item",
-          "title": "nextjs-sitemap by Sergey Myssak",
-          "description": "and Andrey MyssakGenerate dynamic sitemap.xml for Next.js projects following the example of Google!",
+          "title": "nextjs-sitemap",
+          "description": "by Sergey Myssak and Andrey MyssakGenerate dynamic sitemap.xml for Next.js projects following the example of Google!",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -215,8 +215,8 @@
         },
         {
           "node_type": "item",
-          "title": "react-native-code-verification by Danagul Otel",
-          "description": "Simple UI for pincode verification",
+          "title": "react-native-code-verification",
+          "description": "by Danagul Otel Simple UI for pincode verification",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -230,8 +230,8 @@
         },
         {
           "node_type": "item",
-          "title": "AYStepperView by Ayan Yenbekbay",
-          "description": "A simple customizable stepper view written in Objective C",
+          "title": "AYStepperView",
+          "description": "by Ayan Yenbekbay A simple customizable stepper view written in Objective C",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -251,8 +251,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Parallax Podcast by Sanzhar Zhangaliyev",
-          "description": "Parallax is an open-source AI platform solution that gives users the power to generate their own podcasts, audiobooks, and audio articles from prompts, documents, images and web search.",
+          "title": "Parallax Podcast",
+          "description": "by Sanzhar Zhangaliyev Parallax is an open-source AI platform solution that gives users the power to generate their own podcasts, audiobooks, and audio articles from prompts, documents, images and web search.",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -266,8 +266,8 @@
         },
         {
           "node_type": "item",
-          "title": "Laddy by Temirzhan Yussupov",
-          "description": "Hand-picked problems for your Codeforces rating",
+          "title": "Laddy",
+          "description": "by Temirzhan Yussupov Hand-picked problems for your Codeforces rating",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -281,8 +281,8 @@
         },
         {
           "node_type": "item",
-          "title": "sozdik-android by Askar Syzdykov",
-          "description": "Online Kazakh-2-Russian (and vice versa) dictionary",
+          "title": "sozdik-android",
+          "description": "by Askar Syzdykov Online Kazakh-2-Russian (and vice versa) dictionary",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -296,8 +296,8 @@
         },
         {
           "node_type": "item",
-          "title": "Taza by Beknar Danabek",
-          "description": "CLI tool to keep your iOS project clean",
+          "title": "Taza",
+          "description": "by Beknar Danabek CLI tool to keep your iOS project clean",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -311,8 +311,8 @@
         },
         {
           "node_type": "item",
-          "title": "Eng-Kk-Tech-Dictionary by Mukhammedali Muratkhan",
-          "description": "English-Kazakh Dictionary of IT terms",
+          "title": "Eng-Kk-Tech-Dictionary",
+          "description": "by Mukhammedali Muratkhan English-Kazakh Dictionary of IT terms",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -326,8 +326,8 @@
         },
         {
           "node_type": "item",
-          "title": "Leetcoder by Temir Yerlan",
-          "description": "Chrome extension adds sorting to leetcode.com problems",
+          "title": "Leetcoder",
+          "description": "by Temir Yerlan Chrome extension adds sorting to leetcode.com problems",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -344,7 +344,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T12:18:41.005Z",
+    "last_updated": "2026-08-24T14:34:04.020Z",
     "original_repository": "nugmanoff/awesome-made-in-kz",
     "original_repository_id": 300057700,
     "original_repository_sha": "ac82d228a749def7b504dcc0d9a4715f5b74b543",
