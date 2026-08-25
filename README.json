@@ -15,7 +15,7 @@
             "last_commit": "2026-05-03T18:11:59Z",
             "owner": "zhanymkanov",
             "repo": "fastapi-best-practices",
-            "stars": 17952
+            "stars": 17957
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T20:47:35Z",
             "owner": "irbis-sh",
             "repo": "zen-desktop",
-            "stars": 4189
+            "stars": 4195
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 76951323,
             "language": "C++",
-            "last_commit": "2026-08-25T06:03:10Z",
+            "last_commit": "2026-08-25T09:09:45Z",
             "owner": "fnc12",
             "repo": "sqlite_orm",
             "stars": 2690
@@ -344,7 +344,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:24:35.139Z",
+    "last_updated": "2026-08-25T12:19:10.631Z",
     "original_repository": "nugmanoff/awesome-made-in-kz",
     "original_repository_id": 300057700,
     "original_repository_sha": "ac82d228a749def7b504dcc0d9a4715f5b74b543",
