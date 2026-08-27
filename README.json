@@ -12,10 +12,10 @@
             "archived": false,
             "id": 522822986,
             "language": null,
-            "last_commit": "2026-05-03T18:11:59Z",
+            "last_commit": "2026-08-27T12:54:52Z",
             "owner": "zhanymkanov",
             "repo": "fastapi-best-practices",
-            "stars": 17971
+            "stars": 17975
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-26T20:57:14Z",
             "owner": "irbis-sh",
             "repo": "zen-desktop",
-            "stars": 4203
+            "stars": 4205
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-05-25T17:43:07Z",
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 4109
+            "stars": 4110
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 76951323,
             "language": "C++",
-            "last_commit": "2026-08-27T07:31:02Z",
+            "last_commit": "2026-08-27T12:26:32Z",
             "owner": "fnc12",
             "repo": "sqlite_orm",
-            "stars": 2691
+            "stars": 2692
           }
         },
         {
@@ -344,7 +344,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:50:00.220Z",
+    "last_updated": "2026-08-27T21:19:40.830Z",
     "original_repository_info": {
       "archived": false,
       "id": 300057700,
