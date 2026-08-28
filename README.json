@@ -15,8 +15,9 @@
             "last_commit": "2026-08-27T12:54:52Z",
             "owner": "zhanymkanov",
             "repo": "fastapi-best-practices",
-            "stars": 17975
-          }
+            "stars": 17983
+          },
+          "first_seen": "2026-08-28T21:32:45.353Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 646089579,
             "language": "Go",
-            "last_commit": "2026-08-26T20:57:14Z",
+            "last_commit": "2026-08-28T20:29:12Z",
             "owner": "irbis-sh",
             "repo": "zen-desktop",
-            "stars": 4205
-          }
+            "stars": 4207
+          },
+          "first_seen": "2026-08-28T21:32:45.353Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2024-05-25T17:43:07Z",
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 4110
-          }
+            "stars": 4114
+          },
+          "first_seen": "2026-08-28T21:32:45.353Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 76951323,
             "language": "C++",
-            "last_commit": "2026-08-27T12:26:32Z",
+            "last_commit": "2026-08-28T14:23:32Z",
             "owner": "fnc12",
             "repo": "sqlite_orm",
             "stars": 2692
-          }
+          },
+          "first_seen": "2026-08-28T21:32:45.353Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "aitemr",
             "repo": "awesome-git-hooks",
             "stars": 978
-          }
+          },
+          "first_seen": "2026-08-28T21:32:45.353Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "ADJA",
             "repo": "algos",
             "stars": 730
-          }
+          },
+          "first_seen": "2026-08-28T21:32:45.353Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "onl1ner",
             "repo": "TabBar",
             "stars": 469
-          }
+          },
+          "first_seen": "2026-08-28T21:32:45.353Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "mixdesign",
             "repo": "AAShareBubbles",
             "stars": 392
-          }
+          },
+          "first_seen": "2026-08-28T21:32:45.353Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "kekland",
             "repo": "equinox",
             "stars": 331
-          }
+          },
+          "first_seen": "2026-08-28T21:32:45.353Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "ncanode-kz",
             "repo": "NCANode",
             "stars": 319
-          }
+          },
+          "first_seen": "2026-08-28T21:32:45.353Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "Slava",
             "repo": "meteor-rethinkdb",
             "stars": 302
-          }
+          },
+          "first_seen": "2026-08-28T21:32:45.353Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "Slava",
             "repo": "tern-meteor-sublime",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-28T21:32:45.353Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "binchik",
             "repo": "SubscriptionPrompt",
             "stars": 238
-          }
+          },
+          "first_seen": "2026-08-28T21:32:45.353Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "SergeyMyssak",
             "repo": "nextjs-sitemap",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T21:32:45.353Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "danchokobo",
             "repo": "react-native-code-verification",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T21:32:45.353Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "yenbekbay",
             "repo": "AYStepperView",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T21:32:45.353Z"
         }
       ],
       "title": "> 100 ⭐️"
@@ -262,7 +278,8 @@
             "owner": "iboughtbed",
             "repo": "ai-podcast",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T21:32:45.353Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "ironsoul0",
             "repo": "laddy",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T21:32:45.353Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "sozdik-kz",
             "repo": "sozdik-android",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T21:32:45.353Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "danabeknar",
             "repo": "taza",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T21:32:45.353Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "son-of-Altay",
             "repo": "eng-kk-tech-dictionary",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T21:32:45.353Z"
         },
         {
           "node_type": "item",
@@ -337,14 +358,15 @@
             "owner": "yerlantemir",
             "repo": "leetcoder",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T21:32:45.353Z"
         }
       ],
       "title": "Promising"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:19:40.830Z",
+    "last_updated": "2026-08-28T21:32:45.353Z",
     "original_repository_info": {
       "archived": false,
       "id": 300057700,
