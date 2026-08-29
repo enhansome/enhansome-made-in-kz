@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FastAPI Best Practices and Conventions we used at our startup",
+            "homepage": null,
             "id": 522822986,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-27T12:54:52Z",
+            "open_issues": 16,
             "owner": "zhanymkanov",
             "repo": "fastapi-best-practices",
-            "stars": 17983
+            "stars": 17985,
+            "topics": [
+              "best-practices",
+              "fastapi"
+            ]
           },
           "first_seen": "2026-08-28T21:32:45.353Z"
         },
@@ -26,12 +34,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ad-blocker and privacy guard for Windows, macOS and Linux.",
+            "homepage": "https://irbis.sh/zen",
             "id": 646089579,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T20:29:12Z",
+            "open_issues": 14,
             "owner": "irbis-sh",
             "repo": "zen-desktop",
-            "stars": 4207
+            "stars": 4208,
+            "topics": [
+              "ad-block",
+              "adblock",
+              "adblocker",
+              "desktop-app",
+              "go",
+              "gui",
+              "linux",
+              "macos",
+              "privacy",
+              "windows",
+              "zen"
+            ]
           },
           "first_seen": "2026-08-28T21:32:45.353Z"
         },
@@ -42,12 +67,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+            "homepage": null,
             "id": 134999697,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-25T17:43:07Z",
+            "open_issues": 9,
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 4114
+            "stars": 4114,
+            "topics": [
+              "cluster-management",
+              "deep-learning",
+              "distributed",
+              "llama",
+              "llama2",
+              "llm",
+              "machine-learning",
+              "mlops",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T21:32:45.353Z"
         },
@@ -58,12 +98,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "❤️ SQLite ORM light header only library for modern C++",
+            "homepage": null,
             "id": 76951323,
             "language": "C++",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T14:23:32Z",
+            "open_issues": 16,
             "owner": "fnc12",
             "repo": "sqlite_orm",
-            "stars": 2692
+            "stars": 2692,
+            "topics": [
+              "cplusplus",
+              "cplusplus-14",
+              "cpp",
+              "crud",
+              "modern-cpp",
+              "orm",
+              "sql",
+              "sqlite",
+              "sqlite-orm",
+              "sqlite3",
+              "sqlite3-database",
+              "sqliteorm"
+            ]
           },
           "first_seen": "2026-08-28T21:32:45.353Z"
         },
@@ -74,12 +132,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 A collection of awesome Git Hooks",
+            "homepage": null,
             "id": 159375334,
             "language": "Shell",
+            "license": "CC0-1.0",
             "last_commit": "2026-01-19T11:34:43Z",
+            "open_issues": 3,
             "owner": "aitemr",
             "repo": "awesome-git-hooks",
-            "stars": 978
+            "stars": 978,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bash",
+              "git-hooks"
+            ]
           },
           "first_seen": "2026-08-28T21:32:45.353Z"
         },
@@ -90,12 +158,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Competitive programming algorithms in C++",
+            "homepage": null,
             "id": 19974229,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2020-12-16T02:43:17Z",
+            "open_issues": 0,
             "owner": "ADJA",
             "repo": "algos",
-            "stars": 730
+            "stars": 730,
+            "topics": [
+              "acm-icpc",
+              "acm-icpc-handbook",
+              "algorithms",
+              "data-structures"
+            ]
           },
           "first_seen": "2026-08-28T21:32:45.353Z"
         },
@@ -106,12 +184,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📱 TabBar – highly customizable tab bar (i.e. TabView) for your SwiftUI application.",
+            "homepage": null,
             "id": 404404451,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2024-08-04T16:54:42Z",
+            "open_issues": 14,
             "owner": "onl1ner",
             "repo": "TabBar",
-            "stars": 469
+            "stars": 469,
+            "topics": [
+              "bar",
+              "custom-tab-bar",
+              "custom-tab-view",
+              "custom-tabbar",
+              "custom-tabview",
+              "ios",
+              "library",
+              "swift",
+              "swift-ui",
+              "swiftui",
+              "tab",
+              "tab-bar",
+              "tabbar",
+              "tabview",
+              "uitabbar",
+              "uitabbarcontroller",
+              "view",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T21:32:45.353Z"
         },
@@ -122,12 +224,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Animated Social share buttons control for iOS",
+            "homepage": null,
             "id": 7080318,
             "language": "Objective-C",
+            "license": "NOASSERTION",
             "last_commit": "2018-03-02T17:41:14Z",
+            "open_issues": 2,
             "owner": "mixdesign",
             "repo": "AAShareBubbles",
-            "stars": 392
+            "stars": 392,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:45.353Z"
         },
@@ -138,12 +245,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Flutter UI library based on Eva Design System ✨",
+            "homepage": null,
             "id": 192744060,
             "language": "Dart",
+            "license": "MIT",
             "last_commit": "2020-05-07T13:55:45Z",
+            "open_issues": 2,
             "owner": "kekland",
             "repo": "equinox",
-            "stars": 331
+            "stars": 331,
+            "topics": [
+              "flutter",
+              "flutter-components",
+              "flutter-package",
+              "flutter-plugin",
+              "flutter-ui",
+              "flutter-widget",
+              "ui-kit"
+            ]
           },
           "first_seen": "2026-08-28T21:32:45.353Z"
         },
@@ -154,12 +274,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⭐ Приложение-сервер для работы с Электронно Цифровой Подписью (ЭЦП) РК",
+            "homepage": "http://ncanode.kz",
             "id": 153664167,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-08-07T07:16:31Z",
+            "open_issues": 9,
             "owner": "ncanode-kz",
             "repo": "NCANode",
-            "stars": 319
+            "stars": 319,
+            "topics": [
+              "api",
+              "crl",
+              "digital-signatures",
+              "gost",
+              "java",
+              "kalkan",
+              "kazakhstan",
+              "knca",
+              "ncalayer",
+              "ocsp",
+              "oid",
+              "pkcs12",
+              "pki",
+              "tsp",
+              "x509"
+            ]
           },
           "first_seen": "2026-08-28T21:32:45.353Z"
         },
@@ -170,12 +311,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RethinkDB integration for Meteor",
+            "homepage": "https://atmospherejs.com/simple/rethink",
             "id": 34434221,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-07-02T05:03:19Z",
+            "open_issues": 12,
             "owner": "Slava",
             "repo": "meteor-rethinkdb",
-            "stars": 302
+            "stars": 302,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:45.353Z"
         },
@@ -186,12 +332,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Meteor Framework autocompletion for Sublime",
+            "homepage": null,
             "id": 32203587,
             "language": "Python",
+            "license": null,
             "last_commit": "2016-03-29T10:38:48Z",
+            "open_issues": 2,
             "owner": "Slava",
             "repo": "tern-meteor-sublime",
-            "stars": 245
+            "stars": 245,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:45.353Z"
         },
@@ -202,12 +353,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Subscription View Controller like the Tinder uses",
+            "homepage": null,
             "id": 57971071,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2022-04-07T06:26:55Z",
+            "open_issues": 0,
             "owner": "binchik",
             "repo": "SubscriptionPrompt",
-            "stars": 238
+            "stars": 238,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:45.353Z"
         },
@@ -218,12 +374,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate dynamic sitemap.xml for Next.js projects following the example of Google!",
+            "homepage": null,
             "id": 275585532,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2021-09-15T06:02:52Z",
+            "open_issues": 6,
             "owner": "SergeyMyssak",
             "repo": "nextjs-sitemap",
-            "stars": 123
+            "stars": 123,
+            "topics": [
+              "nextjs",
+              "sitemap",
+              "sitemap-builder",
+              "sitemap-generation",
+              "sitemap-generator",
+              "sitemap-xml"
+            ]
           },
           "first_seen": "2026-08-28T21:32:45.353Z"
         },
@@ -234,12 +402,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "❤️ Simple UI for pincode verification",
+            "homepage": null,
             "id": 136135339,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-04-29T21:18:16Z",
+            "open_issues": 1,
             "owner": "danchokobo",
             "repo": "react-native-code-verification",
-            "stars": 118
+            "stars": 118,
+            "topics": [
+              "code",
+              "keypad",
+              "num",
+              "pincode",
+              "react-native",
+              "verification"
+            ]
           },
           "first_seen": "2026-08-28T21:32:45.353Z"
         },
@@ -250,12 +430,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[DEPRECATED] A simple customizable stepper view written in Objective C",
+            "homepage": null,
             "id": 47180587,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2015-12-01T10:04:39Z",
+            "open_issues": 1,
             "owner": "yenbekbay",
             "repo": "AYStepperView",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:45.353Z"
         }
@@ -272,12 +457,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Open-Source Platform to create AI-powered podcasts, audiobooks, and audio articles.",
+            "homepage": "https://prllxhq.com",
             "id": 818669695,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-11T18:21:10Z",
+            "open_issues": 0,
             "owner": "iboughtbed",
             "repo": "ai-podcast",
-            "stars": 97
+            "stars": 97,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:45.353Z"
         },
@@ -288,12 +478,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Analogous to A2OJ Codeforces practice ladders",
+            "homepage": null,
             "id": 220262025,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-01-11T22:25:58Z",
+            "open_issues": 53,
             "owner": "ironsoul0",
             "repo": "laddy",
-            "stars": 83
+            "stars": 83,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:32:45.353Z"
         },
@@ -304,12 +499,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Android client for sozdik.kz",
+            "homepage": "https://sozdik.kz",
             "id": 290830901,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2022-11-08T19:24:45Z",
+            "open_issues": 5,
             "owner": "sozdik-kz",
             "repo": "sozdik-android",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "hacktoberfest",
+              "kazakh-dictionary",
+              "sozdik"
+            ]
           },
           "first_seen": "2026-08-28T21:32:45.353Z"
         },
@@ -320,12 +524,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧼  keep your iOS project clean",
+            "homepage": null,
             "id": 288367547,
             "language": "Swift",
+            "license": null,
             "last_commit": "2020-10-09T13:33:47Z",
+            "open_issues": 0,
             "owner": "danabeknar",
             "repo": "taza",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "swift",
+              "swift-cli",
+              "swift-package-manager"
+            ]
           },
           "first_seen": "2026-08-28T21:32:45.353Z"
         },
@@ -336,12 +549,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IT терминдер бойынша Ағылшын-Қазақ сөздігі",
+            "homepage": "https://medium.com/@mukhammedali.muratkhan",
             "id": 792467801,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2024-05-20T10:07:37Z",
+            "open_issues": 6,
             "owner": "son-of-Altay",
             "repo": "eng-kk-tech-dictionary",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "acm-icpc",
+              "alash",
+              "dictionary",
+              "engineering",
+              "hardware",
+              "ict",
+              "informatics",
+              "it",
+              "it-bilim",
+              "kazakh",
+              "kazakh-dictionary",
+              "kazakh-language",
+              "kazakhstan",
+              "kazcontent",
+              "programming",
+              "qazaq",
+              "qazaqstan",
+              "qazcontent",
+              "software",
+              "vocabulary"
+            ]
           },
           "first_seen": "2026-08-28T21:32:45.353Z"
         },
@@ -352,12 +591,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chrome extension makes available sorting problems by likes,dislikes,ratio(likes/dislikes)",
+            "homepage": null,
             "id": 271122909,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-07-03T13:33:02Z",
+            "open_issues": 1,
             "owner": "yerlantemir",
             "repo": "leetcoder",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "chrome-extension",
+              "javascript",
+              "leetcode"
+            ]
           },
           "first_seen": "2026-08-28T21:32:45.353Z"
         }
@@ -366,15 +614,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:32:45.353Z",
+    "last_updated": "2026-08-29T04:54:26.185Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🇰🇿 😎  Awesome open source projects made in Kazakhstan",
+      "homepage": null,
       "id": 300057700,
       "language": null,
+      "license": null,
       "last_commit": "2025-05-15T06:38:09Z",
+      "open_issues": 0,
       "owner": "aidarnouman",
       "repo": "awesome-made-in-kz",
-      "stars": 194
+      "stars": 194,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "made-by-kazakhs",
+        "made-in-kz"
+      ]
     },
     "original_repository_sha": "ac82d228a749def7b504dcc0d9a4715f5b74b543",
     "enhanced_repository": "enhansome/enhansome-made-in-kz",
