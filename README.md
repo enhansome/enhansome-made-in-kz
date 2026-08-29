@@ -14,7 +14,7 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
 
 ## > 100 ⭐️
 
-* **[fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) ⭐ 17,985 | 🐛 16 | 📅 2026-08-27** by [Yerassyl Zhanymkanov](https://github.com/zhanymkanov)<br>
+* **[fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) ⭐ 17,986 | 🐛 16 | 📅 2026-08-27** by [Yerassyl Zhanymkanov](https://github.com/zhanymkanov)<br>
   FastAPI Best Practices<br>
   ![Stars](https://img.shields.io/github/stars/zhanymkanov/fastapi-best-practices?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
@@ -22,11 +22,11 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
   Zen is a simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux<br>
   ![Stars](https://img.shields.io/github/stars/ZenPrivacy/zen-desktop?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[Higgsfield](https://github.com/higgsfield/higgsfield) ⭐ 4,114 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2024-05-25** by [Yerzat Dulat](https://github.com/higgsfield) and [Omar Änwar](https://github.com/arpanetus)<br>
+* **[Higgsfield](https://github.com/higgsfield/higgsfield) ⭐ 4,115 | 🐛 10 | 🌐 Jupyter Notebook | 📅 2024-05-25** by [Yerzat Dulat](https://github.com/higgsfield) and [Omar Änwar](https://github.com/arpanetus)<br>
   Fault-tolerant, highly scalable cluster management, and a machine learning framework designed for training models with billions to trillions of parameters<br>
   ![Stars](https://img.shields.io/github/stars/higgsfield/higgsfield?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[sqlite-orm](https://github.com/fnc12/sqlite_orm) ⭐ 2,692 | 🐛 16 | 🌐 C++ | 📅 2026-08-28** by [Yevgeniy Zakharov](https://github.com/fnc12)<br>
+* **[sqlite-orm](https://github.com/fnc12/sqlite_orm) ⭐ 2,693 | 🐛 17 | 🌐 C++ | 📅 2026-08-29** by [Yevgeniy Zakharov](https://github.com/fnc12)<br>
   SQLite ORM light header only library for modern C++<br>
   ![Stars](https://img.shields.io/github/stars/fnc12/sqlite_orm?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
