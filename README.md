@@ -14,19 +14,19 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
 
 ## > 100 ⭐️
 
-* **[fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) ⭐ 18,006 | 🐛 16 | 📅 2026-08-27** by [Yerassyl Zhanymkanov](https://github.com/zhanymkanov)<br>
+* **[fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) ⭐ 18,012 | 🐛 16 | 📅 2026-08-27** by [Yerassyl Zhanymkanov](https://github.com/zhanymkanov)<br>
   FastAPI Best Practices<br>
   ![Stars](https://img.shields.io/github/stars/zhanymkanov/fastapi-best-practices?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[Zen](https://github.com/ZenPrivacy/zen-desktop) ⭐ 4,212 | 🐛 14 | 🌐 Go | 📅 2026-08-28** by [Ansar Smagulov](https://github.com/anfragment) and [Sultan Momynov](https://github.com/AitakattaSora)<br>
+* **[Zen](https://github.com/ZenPrivacy/zen-desktop) ⭐ 4,214 | 🐛 14 | 🌐 Go | 📅 2026-08-28** by [Ansar Smagulov](https://github.com/anfragment) and [Sultan Momynov](https://github.com/AitakattaSora)<br>
   Zen is a simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux<br>
   ![Stars](https://img.shields.io/github/stars/ZenPrivacy/zen-desktop?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[Higgsfield](https://github.com/higgsfield/higgsfield) ⭐ 4,126 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2024-05-25** by [Yerzat Dulat](https://github.com/higgsfield) and [Omar Änwar](https://github.com/arpanetus)<br>
+* **[Higgsfield](https://github.com/higgsfield/higgsfield) ⭐ 4,129 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2024-05-25** by [Yerzat Dulat](https://github.com/higgsfield) and [Omar Änwar](https://github.com/arpanetus)<br>
   Fault-tolerant, highly scalable cluster management, and a machine learning framework designed for training models with billions to trillions of parameters<br>
   ![Stars](https://img.shields.io/github/stars/higgsfield/higgsfield?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[sqlite-orm](https://github.com/fnc12/sqlite_orm) ⭐ 2,693 | 🐛 15 | 🌐 C++ | 📅 2026-09-01** by [Yevgeniy Zakharov](https://github.com/fnc12)<br>
+* **[sqlite-orm](https://github.com/fnc12/sqlite_orm) ⭐ 2,694 | 🐛 16 | 🌐 C++ | 📅 2026-09-02** by [Yevgeniy Zakharov](https://github.com/fnc12)<br>
   SQLite ORM light header only library for modern C++<br>
   ![Stars](https://img.shields.io/github/stars/fnc12/sqlite_orm?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
@@ -50,7 +50,7 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
   Flutter UI library based on Eva Design System<br>
   ![Stars](https://img.shields.io/github/stars/kekland/equinox?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[NCANode](https://github.com/malikzh/NCANode) ⭐ 320 | 🐛 9 | 🌐 Java | 📅 2026-08-07** by [Malik Zharykov](https://github.com/malikzh)<br>
+* **[NCANode](https://github.com/malikzh/NCANode) ⭐ 321 | 🐛 8 | 🌐 Java | 📅 2026-09-02** by [Malik Zharykov](https://github.com/malikzh)<br>
   EDS Sign server created with Kalkancrypt libraries<br>
   ![Stars](https://img.shields.io/github/stars/malikzh/NCANode?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
@@ -134,8 +134,8 @@ All in all, submission to the *Promising* section will be discussed in the PR al
 
 ## Credits
 
-This repository was inspired by similar curated lists from [Russia](https://github.com/igoradamenko/awesome-made-by-russians) and [Brazil](https://github.com/felipefialho/awesome-made-by-brazilians) ⭐ 1,873 | 🐛 6 | 📅 2026-08-13. All original idea credit goes to authors.
+This repository was inspired by similar curated lists from [Russia](https://github.com/igoradamenko/awesome-made-by-russians) and [Brazil](https://github.com/felipefialho/awesome-made-by-brazilians) ⭐ 1,874 | 🐛 6 | 📅 2026-08-13. All original idea credit goes to authors.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._

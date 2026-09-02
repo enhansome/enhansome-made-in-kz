@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "zhanymkanov",
             "repo": "fastapi-best-practices",
-            "stars": 18006,
+            "stars": 18012,
             "topics": [
               "best-practices",
               "fastapi"
@@ -43,7 +43,7 @@
             "open_issues": 14,
             "owner": "irbis-sh",
             "repo": "zen-desktop",
-            "stars": 4212,
+            "stars": 4214,
             "topics": [
               "ad-block",
               "adblock",
@@ -76,7 +76,7 @@
             "open_issues": 9,
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 4126,
+            "stars": 4129,
             "topics": [
               "cluster-management",
               "deep-learning",
@@ -103,11 +103,11 @@
             "id": 76951323,
             "language": "C++",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-01T14:53:55Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-02T10:02:23Z",
+            "open_issues": 16,
             "owner": "fnc12",
             "repo": "sqlite_orm",
-            "stars": 2693,
+            "stars": 2694,
             "topics": [
               "cplusplus",
               "cplusplus-14",
@@ -279,11 +279,11 @@
             "id": 153664167,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-08-07T07:16:31Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-02T14:41:28Z",
+            "open_issues": 8,
             "owner": "ncanode-kz",
             "repo": "NCANode",
-            "stars": 320,
+            "stars": 321,
             "topics": [
               "api",
               "crl",
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T15:35:38.177Z",
+    "last_updated": "2026-09-02T15:22:10.934Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇿 😎  Awesome open source projects made in Kazakhstan",
