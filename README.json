@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "zhanymkanov",
             "repo": "fastapi-best-practices",
-            "stars": 18030,
+            "stars": 18031,
             "topics": [
               "best-practices",
               "fastapi"
@@ -43,7 +43,7 @@
             "open_issues": 14,
             "owner": "irbis-sh",
             "repo": "zen-desktop",
-            "stars": 4216,
+            "stars": 4217,
             "topics": [
               "ad-block",
               "adblock",
@@ -76,7 +76,7 @@
             "open_issues": 9,
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 4139,
+            "stars": 4142,
             "topics": [
               "cluster-management",
               "deep-learning",
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T15:10:29.997Z",
+    "last_updated": "2026-09-05T14:01:38.957Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇿 😎  Awesome open source projects made in Kazakhstan",
