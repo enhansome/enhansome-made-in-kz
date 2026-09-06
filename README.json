@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "zhanymkanov",
             "repo": "fastapi-best-practices",
-            "stars": 18031,
+            "stars": 18038,
             "topics": [
               "best-practices",
               "fastapi"
@@ -76,7 +76,7 @@
             "open_issues": 9,
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 4142,
+            "stars": 4152,
             "topics": [
               "cluster-management",
               "deep-learning",
@@ -103,8 +103,8 @@
             "id": 76951323,
             "language": "C++",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-03T13:00:09Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-06T14:15:45Z",
+            "open_issues": 16,
             "owner": "fnc12",
             "repo": "sqlite_orm",
             "stars": 2693,
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T14:01:38.957Z",
+    "last_updated": "2026-09-06T14:26:37.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇿 😎  Awesome open source projects made in Kazakhstan",

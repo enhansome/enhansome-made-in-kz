@@ -14,7 +14,7 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
 
 ## > 100 ⭐️
 
-* **[fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) ⭐ 18,031 | 🐛 15 | 📅 2026-08-27** by [Yerassyl Zhanymkanov](https://github.com/zhanymkanov)<br>
+* **[fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) ⭐ 18,038 | 🐛 15 | 📅 2026-08-27** by [Yerassyl Zhanymkanov](https://github.com/zhanymkanov)<br>
   FastAPI Best Practices<br>
   ![Stars](https://img.shields.io/github/stars/zhanymkanov/fastapi-best-practices?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
@@ -22,11 +22,11 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
   Zen is a simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux<br>
   ![Stars](https://img.shields.io/github/stars/ZenPrivacy/zen-desktop?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[Higgsfield](https://github.com/higgsfield/higgsfield) ⭐ 4,142 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2024-05-25** by [Yerzat Dulat](https://github.com/higgsfield) and [Omar Änwar](https://github.com/arpanetus)<br>
+* **[Higgsfield](https://github.com/higgsfield/higgsfield) ⭐ 4,152 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2024-05-25** by [Yerzat Dulat](https://github.com/higgsfield) and [Omar Änwar](https://github.com/arpanetus)<br>
   Fault-tolerant, highly scalable cluster management, and a machine learning framework designed for training models with billions to trillions of parameters<br>
   ![Stars](https://img.shields.io/github/stars/higgsfield/higgsfield?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[sqlite-orm](https://github.com/fnc12/sqlite_orm) ⭐ 2,693 | 🐛 15 | 🌐 C++ | 📅 2026-09-03** by [Yevgeniy Zakharov](https://github.com/fnc12)<br>
+* **[sqlite-orm](https://github.com/fnc12/sqlite_orm) ⭐ 2,693 | 🐛 16 | 🌐 C++ | 📅 2026-09-06** by [Yevgeniy Zakharov](https://github.com/fnc12)<br>
   SQLite ORM light header only library for modern C++<br>
   ![Stars](https://img.shields.io/github/stars/fnc12/sqlite_orm?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
@@ -134,8 +134,8 @@ All in all, submission to the *Promising* section will be discussed in the PR al
 
 ## Credits
 
-This repository was inspired by similar curated lists from [Russia](https://github.com/igoradamenko/awesome-made-by-russians) and [Brazil](https://github.com/felipefialho/awesome-made-by-brazilians) ⭐ 1,877 | 🐛 6 | 📅 2026-08-13. All original idea credit goes to authors.
+This repository was inspired by similar curated lists from [Russia](https://github.com/igoradamenko/awesome-made-by-russians) and [Brazil](https://github.com/felipefialho/awesome-made-by-brazilians) ⭐ 1,878 | 🐛 6 | 📅 2026-08-13. All original idea credit goes to authors.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
