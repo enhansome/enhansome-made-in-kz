@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "zhanymkanov",
             "repo": "fastapi-best-practices",
-            "stars": 18038,
+            "stars": 18042,
             "topics": [
               "best-practices",
               "fastapi"
@@ -43,7 +43,7 @@
             "open_issues": 14,
             "owner": "irbis-sh",
             "repo": "zen-desktop",
-            "stars": 4217,
+            "stars": 4219,
             "topics": [
               "ad-block",
               "adblock",
@@ -76,7 +76,7 @@
             "open_issues": 9,
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 4152,
+            "stars": 4155,
             "topics": [
               "cluster-management",
               "deep-learning",
@@ -103,7 +103,7 @@
             "id": 76951323,
             "language": "C++",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-06T14:15:45Z",
+            "last_commit": "2026-09-07T13:24:59Z",
             "open_issues": 16,
             "owner": "fnc12",
             "repo": "sqlite_orm",
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T14:26:37.858Z",
+    "last_updated": "2026-09-07T16:40:57.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇿 😎  Awesome open source projects made in Kazakhstan",
