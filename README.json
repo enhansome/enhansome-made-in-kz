@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "zhanymkanov",
             "repo": "fastapi-best-practices",
-            "stars": 18064,
+            "stars": 18068,
             "topics": [
               "best-practices",
               "fastapi"
@@ -43,7 +43,7 @@
             "open_issues": 14,
             "owner": "irbis-sh",
             "repo": "zen-desktop",
-            "stars": 4227,
+            "stars": 4226,
             "topics": [
               "ad-block",
               "adblock",
@@ -72,11 +72,11 @@
             "id": 134999697,
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
-            "last_commit": "2024-05-25T17:43:07Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-14T02:46:36Z",
+            "open_issues": 10,
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 4191,
+            "stars": 4199,
             "topics": [
               "cluster-management",
               "deep-learning",
@@ -103,8 +103,8 @@
             "id": 76951323,
             "language": "C++",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-13T12:13:50Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-14T14:52:58Z",
+            "open_issues": 19,
             "owner": "fnc12",
             "repo": "sqlite_orm",
             "stars": 2694,
@@ -279,8 +279,8 @@
             "id": 153664167,
             "language": "Java",
             "license": "MIT",
-            "last_commit": "2026-09-04T07:02:06Z",
-            "open_issues": 9,
+            "last_commit": "2026-09-13T19:10:09Z",
+            "open_issues": 8,
             "owner": "ncanode-kz",
             "repo": "NCANode",
             "stars": 322,
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T15:06:28.852Z",
+    "last_updated": "2026-09-14T17:04:02.302Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇿 😎  Awesome open source projects made in Kazakhstan",
