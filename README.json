@@ -16,10 +16,10 @@
             "language": null,
             "license": null,
             "last_commit": "2026-08-27T12:54:52Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "zhanymkanov",
             "repo": "fastapi-best-practices",
-            "stars": 18091,
+            "stars": 18093,
             "topics": [
               "best-practices",
               "fastapi"
@@ -40,10 +40,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-09-14T02:46:36Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 4538,
+            "stars": 4765,
             "topics": [
               "cluster-management",
               "deep-learning",
@@ -70,11 +70,11 @@
             "id": 646089579,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-28T20:29:12Z",
+            "last_commit": "2026-09-18T21:09:38Z",
             "open_issues": 14,
             "owner": "irbis-sh",
             "repo": "zen-desktop",
-            "stars": 4228,
+            "stars": 4227,
             "topics": [
               "ad-block",
               "adblock",
@@ -254,7 +254,7 @@
             "open_issues": 2,
             "owner": "kekland",
             "repo": "equinox",
-            "stars": 331,
+            "stars": 330,
             "topics": [
               "flutter",
               "flutter-components",
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T15:13:29.509Z",
+    "last_updated": "2026-09-19T14:50:52.267Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇿 😎  Awesome open source projects made in Kazakhstan",
