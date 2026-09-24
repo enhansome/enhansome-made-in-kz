@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "zhanymkanov",
             "repo": "fastapi-best-practices",
-            "stars": 18106,
+            "stars": 18109,
             "topics": [
               "best-practices",
               "fastapi"
@@ -43,7 +43,7 @@
             "open_issues": 15,
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 5651,
+            "stars": 5687,
             "topics": [
               "cluster-management",
               "deep-learning",
@@ -70,11 +70,11 @@
             "id": 646089579,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-18T21:09:38Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-24T00:13:08Z",
+            "open_issues": 12,
             "owner": "irbis-sh",
             "repo": "zen-desktop",
-            "stars": 4232,
+            "stars": 4233,
             "topics": [
               "ad-block",
               "adblock",
@@ -254,7 +254,7 @@
             "open_issues": 2,
             "owner": "kekland",
             "repo": "equinox",
-            "stars": 330,
+            "stars": 331,
             "topics": [
               "flutter",
               "flutter-components",
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T15:35:48.596Z",
+    "last_updated": "2026-09-24T15:57:14.222Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇿 😎  Awesome open source projects made in Kazakhstan",

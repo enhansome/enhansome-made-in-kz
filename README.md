@@ -14,15 +14,15 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
 
 ## > 100 ⭐️
 
-* **[fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) ⭐ 18,106 | 🐛 16 | 📅 2026-08-27** by [Yerassyl Zhanymkanov](https://github.com/zhanymkanov)<br>
+* **[fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) ⭐ 18,109 | 🐛 16 | 📅 2026-08-27** by [Yerassyl Zhanymkanov](https://github.com/zhanymkanov)<br>
   FastAPI Best Practices<br>
   ![Stars](https://img.shields.io/github/stars/zhanymkanov/fastapi-best-practices?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[Higgsfield](https://github.com/higgsfield/higgsfield) ⭐ 5,651 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2026-09-14** by [Yerzat Dulat](https://github.com/higgsfield) and [Omar Änwar](https://github.com/arpanetus)<br>
+* **[Higgsfield](https://github.com/higgsfield/higgsfield) ⭐ 5,687 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2026-09-14** by [Yerzat Dulat](https://github.com/higgsfield) and [Omar Änwar](https://github.com/arpanetus)<br>
   Fault-tolerant, highly scalable cluster management, and a machine learning framework designed for training models with billions to trillions of parameters<br>
   ![Stars](https://img.shields.io/github/stars/higgsfield/higgsfield?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[Zen](https://github.com/ZenPrivacy/zen-desktop) ⭐ 4,232 | 🐛 14 | 🌐 Go | 📅 2026-09-18** by [Ansar Smagulov](https://github.com/anfragment) and [Sultan Momynov](https://github.com/AitakattaSora)<br>
+* **[Zen](https://github.com/ZenPrivacy/zen-desktop) ⭐ 4,233 | 🐛 12 | 🌐 Go | 📅 2026-09-24** by [Ansar Smagulov](https://github.com/anfragment) and [Sultan Momynov](https://github.com/AitakattaSora)<br>
   Zen is a simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux<br>
   ![Stars](https://img.shields.io/github/stars/ZenPrivacy/zen-desktop?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
@@ -134,8 +134,8 @@ All in all, submission to the *Promising* section will be discussed in the PR al
 
 ## Credits
 
-This repository was inspired by similar curated lists from [Russia](https://github.com/igoradamenko/awesome-made-by-russians) and [Brazil](https://github.com/felipefialho/awesome-made-by-brazilians) ⭐ 1,884 | 🐛 3 | 📅 2026-09-08. All original idea credit goes to authors.
+This repository was inspired by similar curated lists from [Russia](https://github.com/igoradamenko/awesome-made-by-russians) and [Brazil](https://github.com/felipefialho/awesome-made-by-brazilians) ⭐ 1,884 | 🐛 2 | 📅 2026-09-08. All original idea credit goes to authors.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
