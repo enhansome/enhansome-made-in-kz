@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "zhanymkanov",
             "repo": "fastapi-best-practices",
-            "stars": 18109,
+            "stars": 18113,
             "topics": [
               "best-practices",
               "fastapi"
@@ -43,7 +43,7 @@
             "open_issues": 15,
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 5687,
+            "stars": 5725,
             "topics": [
               "cluster-management",
               "deep-learning",
@@ -107,7 +107,7 @@
             "open_issues": 18,
             "owner": "fnc12",
             "repo": "sqlite_orm",
-            "stars": 2693,
+            "stars": 2694,
             "topics": [
               "cplusplus",
               "cplusplus-14",
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T15:57:14.222Z",
+    "last_updated": "2026-09-25T15:57:43.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇿 😎  Awesome open source projects made in Kazakhstan",
