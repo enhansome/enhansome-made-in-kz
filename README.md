@@ -14,23 +14,23 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
 
 ## > 100 ⭐️
 
-* **[fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) ⭐ 18,144 | 🐛 16 | 📅 2026-08-27** by [Yerassyl Zhanymkanov](https://github.com/zhanymkanov)<br>
+* **[fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) ⭐ 18,146 | 🐛 16 | 📅 2026-08-27** by [Yerassyl Zhanymkanov](https://github.com/zhanymkanov)<br>
   FastAPI Best Practices<br>
   ![Stars](https://img.shields.io/github/stars/zhanymkanov/fastapi-best-practices?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[Higgsfield](https://github.com/higgsfield/higgsfield) ⭐ 5,870 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2026-09-14** by [Yerzat Dulat](https://github.com/higgsfield) and [Omar Änwar](https://github.com/arpanetus)<br>
+* **[Higgsfield](https://github.com/higgsfield/higgsfield) ⭐ 5,876 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2026-09-14** by [Yerzat Dulat](https://github.com/higgsfield) and [Omar Änwar](https://github.com/arpanetus)<br>
   Fault-tolerant, highly scalable cluster management, and a machine learning framework designed for training models with billions to trillions of parameters<br>
   ![Stars](https://img.shields.io/github/stars/higgsfield/higgsfield?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[Zen](https://github.com/ZenPrivacy/zen-desktop) ⭐ 4,248 | 🐛 10 | 🌐 Go | 📅 2026-09-30** by [Ansar Smagulov](https://github.com/anfragment) and [Sultan Momynov](https://github.com/AitakattaSora)<br>
+* **[Zen](https://github.com/ZenPrivacy/zen-desktop) ⭐ 4,249 | 🐛 10 | 🌐 Go | 📅 2026-10-05** by [Ansar Smagulov](https://github.com/anfragment) and [Sultan Momynov](https://github.com/AitakattaSora)<br>
   Zen is a simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux<br>
   ![Stars](https://img.shields.io/github/stars/ZenPrivacy/zen-desktop?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[sqlite-orm](https://github.com/fnc12/sqlite_orm) ⭐ 2,695 | 🐛 24 | 🌐 C++ | 📅 2026-10-05** by [Yevgeniy Zakharov](https://github.com/fnc12)<br>
+* **[sqlite-orm](https://github.com/fnc12/sqlite_orm) ⭐ 2,695 | 🐛 25 | 🌐 C++ | 📅 2026-10-06** by [Yevgeniy Zakharov](https://github.com/fnc12)<br>
   SQLite ORM light header only library for modern C++<br>
   ![Stars](https://img.shields.io/github/stars/fnc12/sqlite_orm?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[awesome-git-hooks](https://github.com/aitemr/awesome-git-hooks) ⭐ 979 | 🐛 4 | 🌐 Shell | 📅 2026-01-19** by [Islam Temirbek](https://github.com/aitemr)<br>
+* **[awesome-git-hooks](https://github.com/aitemr/awesome-git-hooks) ⭐ 979 | 🐛 3 | 🌐 Shell | 📅 2026-01-19** by [Islam Temirbek](https://github.com/aitemr)<br>
   A curated list of awesome Git hooks<br>
   ![Stars](https://img.shields.io/github/stars/aitemr/awesome-git-hooks?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
@@ -82,7 +82,7 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
 * **[Parallax Podcast](https://github.com/iboughtbed/ai-podcast) ⭐ 98 | 🐛 0 | 🌐 TypeScript | 📅 2025-12-11** by [Sanzhar Zhangaliyev](https://github.com/iboughtbed) <br>
   Parallax is an open-source AI platform solution that gives users the power to generate their own podcasts, audiobooks, and audio articles from prompts, documents, images and web search. <br>
   ![Stars](https://img.shields.io/github/stars/iboughtbed/ai-podcast?style=flat-square\&color=fec604\&labelColor=00b0cb)
-* **[Laddy](https://github.com/ironsoul0/laddy) ⭐ 83 | 🐛 53 | 🌐 TypeScript | 📅 2023-01-11** by [Temirzhan Yussupov](https://github.com/ironsoul0)<br>
+* **[Laddy](https://github.com/ironsoul0/laddy) ⭐ 82 | 🐛 53 | 🌐 TypeScript | 📅 2023-01-11** by [Temirzhan Yussupov](https://github.com/ironsoul0)<br>
   Hand-picked problems for your Codeforces rating<br>
   ![Stars](https://img.shields.io/github/stars/ironsoul0/laddy?style=flat-square\&color=fec604\&labelColor=00b0cb)
 * **[sozdik-android](https://github.com/sozdik-kz/sozdik-android) ⭐ 54 | 🐛 5 | 🌐 Kotlin | 📅 2022-11-08** by [Askar Syzdykov](https://github.com/askarsyzdykov)<br>
@@ -138,4 +138,4 @@ This repository was inspired by similar curated lists from [Russia](https://gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
