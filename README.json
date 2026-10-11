@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "zhanymkanov",
             "repo": "fastapi-best-practices",
-            "stars": 18164,
+            "stars": 18167,
             "topics": [
               "best-practices",
               "fastapi"
@@ -43,7 +43,7 @@
             "open_issues": 19,
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 5936,
+            "stars": 5947,
             "topics": [
               "cluster-management",
               "deep-learning",
@@ -65,16 +65,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Ad-blocker and privacy guard for Windows, macOS and Linux.",
+            "description": "Full-system ad-blocker and privacy guard for Windows, macOS and Linux.",
             "homepage": "https://irbis.sh/zen",
             "id": 646089579,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-10T13:32:16Z",
+            "last_commit": "2026-10-11T13:06:59Z",
             "open_issues": 10,
             "owner": "irbis-sh",
             "repo": "zen-desktop",
-            "stars": 4254,
+            "stars": 4256,
             "topics": [
               "ad-block",
               "adblock",
@@ -103,11 +103,11 @@
             "id": 76951323,
             "language": "C++",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-10T06:23:31Z",
-            "open_issues": 28,
+            "last_commit": "2026-10-11T16:03:10Z",
+            "open_issues": 24,
             "owner": "fnc12",
             "repo": "sqlite_orm",
-            "stars": 2695,
+            "stars": 2696,
             "topics": [
               "cplusplus",
               "cplusplus-14",
@@ -141,7 +141,7 @@
             "open_issues": 3,
             "owner": "aitemr",
             "repo": "awesome-git-hooks",
-            "stars": 981,
+            "stars": 982,
             "topics": [
               "awesome",
               "awesome-list",
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T16:23:53.848Z",
+    "last_updated": "2026-10-11T16:48:18.220Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇿 😎  Awesome open source projects made in Kazakhstan",
@@ -626,7 +626,7 @@
       "open_issues": 0,
       "owner": "aidarnouman",
       "repo": "awesome-made-in-kz",
-      "stars": 194,
+      "stars": 195,
       "topics": [
         "awesome",
         "awesome-list",
