@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "zhanymkanov",
             "repo": "fastapi-best-practices",
-            "stars": 18167,
+            "stars": 18172,
             "topics": [
               "best-practices",
               "fastapi"
@@ -40,10 +40,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-10-07T09:32:03Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 5947,
+            "stars": 5965,
             "topics": [
               "cluster-management",
               "deep-learning",
@@ -65,16 +65,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Full-system ad-blocker and privacy guard for Windows, macOS and Linux.",
+            "description": "System-wide ad-blocker and privacy guard for Windows, macOS and Linux.",
             "homepage": "https://irbis.sh/zen",
             "id": 646089579,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-11T13:06:59Z",
+            "last_commit": "2026-10-12T18:21:37Z",
             "open_issues": 10,
             "owner": "irbis-sh",
             "repo": "zen-desktop",
-            "stars": 4256,
+            "stars": 4258,
             "topics": [
               "ad-block",
               "adblock",
@@ -103,11 +103,11 @@
             "id": 76951323,
             "language": "C++",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-11T16:03:10Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-11T21:44:07Z",
+            "open_issues": 21,
             "owner": "fnc12",
             "repo": "sqlite_orm",
-            "stars": 2696,
+            "stars": 2697,
             "topics": [
               "cplusplus",
               "cplusplus-14",
@@ -233,7 +233,7 @@
             "open_issues": 2,
             "owner": "mixdesign",
             "repo": "AAShareBubbles",
-            "stars": 392,
+            "stars": 391,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:45.353Z"
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T16:48:18.220Z",
+    "last_updated": "2026-10-12T20:26:34.052Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇿 😎  Awesome open source projects made in Kazakhstan",
