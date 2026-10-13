@@ -14,19 +14,19 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
 
 ## > 100 ⭐️
 
-* **[fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) ⭐ 18,172 | 🐛 16 | 📅 2026-08-27** by [Yerassyl Zhanymkanov](https://github.com/zhanymkanov)<br>
+* **[fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) ⭐ 18,179 | 🐛 16 | 📅 2026-08-27** by [Yerassyl Zhanymkanov](https://github.com/zhanymkanov)<br>
   FastAPI Best Practices<br>
   ![Stars](https://img.shields.io/github/stars/zhanymkanov/fastapi-best-practices?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[Higgsfield](https://github.com/higgsfield/higgsfield) ⭐ 5,965 | 🐛 20 | 🌐 Jupyter Notebook | 📅 2026-10-07** by [Yerzat Dulat](https://github.com/higgsfield) and [Omar Änwar](https://github.com/arpanetus)<br>
+* **[Higgsfield](https://github.com/higgsfield/higgsfield) ⭐ 5,989 | 🐛 20 | 🌐 Jupyter Notebook | 📅 2026-10-07** by [Yerzat Dulat](https://github.com/higgsfield) and [Omar Änwar](https://github.com/arpanetus)<br>
   Fault-tolerant, highly scalable cluster management, and a machine learning framework designed for training models with billions to trillions of parameters<br>
   ![Stars](https://img.shields.io/github/stars/higgsfield/higgsfield?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[Zen](https://github.com/ZenPrivacy/zen-desktop) ⭐ 4,258 | 🐛 10 | 🌐 Go | 📅 2026-10-12** by [Ansar Smagulov](https://github.com/anfragment) and [Sultan Momynov](https://github.com/AitakattaSora)<br>
+* **[Zen](https://github.com/ZenPrivacy/zen-desktop) ⭐ 4,262 | 🐛 10 | 🌐 Go | 📅 2026-10-13** by [Ansar Smagulov](https://github.com/anfragment) and [Sultan Momynov](https://github.com/AitakattaSora)<br>
   Zen is a simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux<br>
   ![Stars](https://img.shields.io/github/stars/ZenPrivacy/zen-desktop?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[sqlite-orm](https://github.com/fnc12/sqlite_orm) ⭐ 2,697 | 🐛 21 | 🌐 C++ | 📅 2026-10-11** by [Yevgeniy Zakharov](https://github.com/fnc12)<br>
+* **[sqlite-orm](https://github.com/fnc12/sqlite_orm) ⭐ 2,697 | 🐛 20 | 🌐 C++ | 📅 2026-10-13** by [Yevgeniy Zakharov](https://github.com/fnc12)<br>
   SQLite ORM light header only library for modern C++<br>
   ![Stars](https://img.shields.io/github/stars/fnc12/sqlite_orm?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
@@ -58,11 +58,11 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
   RethinkDB integration for Meteor<br>
   ![Stars](https://img.shields.io/github/stars/Slava/meteor-rethinkdb?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[tern-meteor-sublime](https://github.com/Slava/tern-meteor-sublime) ⭐ 245 | 🐛 2 | 🌐 Python | 📅 2016-03-29** by [Slava Kim](https://github.com/Slava)<br>
+* **[tern-meteor-sublime](https://github.com/Slava/tern-meteor-sublime) ⭐ 244 | 🐛 2 | 🌐 Python | 📅 2016-03-29** by [Slava Kim](https://github.com/Slava)<br>
   Meteor Framework autocompletion for Sublime<br>
   ![Stars](https://img.shields.io/github/stars/Slava/tern-meteor-sublime?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[SubscriptionPrompt](https://github.com/binchik/SubscriptionPrompt) ⭐ 238 | 🐛 0 | 🌐 Swift | 📅 2022-04-07** by [Binur Konarbai](https://github.com/binchik)<br>
+* **[SubscriptionPrompt](https://github.com/binchik/SubscriptionPrompt) ⭐ 237 | 🐛 0 | 🌐 Swift | 📅 2022-04-07** by [Binur Konarbai](https://github.com/binchik)<br>
   Subscription View Controller like the Tinder uses<br>
   ![Stars](https://img.shields.io/github/stars/binchik/SubscriptionPrompt?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
@@ -138,4 +138,4 @@ This repository was inspired by similar curated lists from [Russia](https://gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
