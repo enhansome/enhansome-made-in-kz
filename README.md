@@ -14,19 +14,19 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
 
 ## > 100 ⭐️
 
-* **[fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) ⭐ 18,183 | 🐛 16 | 📅 2026-08-27** by [Yerassyl Zhanymkanov](https://github.com/zhanymkanov)<br>
+* **[fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) ⭐ 18,189 | 🐛 16 | 📅 2026-08-27** by [Yerassyl Zhanymkanov](https://github.com/zhanymkanov)<br>
   FastAPI Best Practices<br>
   ![Stars](https://img.shields.io/github/stars/zhanymkanov/fastapi-best-practices?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[Higgsfield](https://github.com/higgsfield/higgsfield) ⭐ 6,009 | 🐛 20 | 🌐 Jupyter Notebook | 📅 2026-10-07** by [Yerzat Dulat](https://github.com/higgsfield) and [Omar Änwar](https://github.com/arpanetus)<br>
+* **[Higgsfield](https://github.com/higgsfield/higgsfield) ⭐ 6,036 | 🐛 20 | 🌐 Jupyter Notebook | 📅 2026-10-07** by [Yerzat Dulat](https://github.com/higgsfield) and [Omar Änwar](https://github.com/arpanetus)<br>
   Fault-tolerant, highly scalable cluster management, and a machine learning framework designed for training models with billions to trillions of parameters<br>
   ![Stars](https://img.shields.io/github/stars/higgsfield/higgsfield?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[Zen](https://github.com/ZenPrivacy/zen-desktop) ⭐ 4,262 | 🐛 10 | 🌐 Go | 📅 2026-10-14** by [Ansar Smagulov](https://github.com/anfragment) and [Sultan Momynov](https://github.com/AitakattaSora)<br>
+* **[Zen](https://github.com/ZenPrivacy/zen-desktop) ⭐ 4,265 | 🐛 11 | 🌐 Go | 📅 2026-10-14** by [Ansar Smagulov](https://github.com/anfragment) and [Sultan Momynov](https://github.com/AitakattaSora)<br>
   Zen is a simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux<br>
   ![Stars](https://img.shields.io/github/stars/ZenPrivacy/zen-desktop?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[sqlite-orm](https://github.com/fnc12/sqlite_orm) ⭐ 2,697 | 🐛 21 | 🌐 C++ | 📅 2026-10-14** by [Yevgeniy Zakharov](https://github.com/fnc12)<br>
+* **[sqlite-orm](https://github.com/fnc12/sqlite_orm) ⭐ 2,695 | 🐛 24 | 🌐 C++ | 📅 2026-10-15** by [Yevgeniy Zakharov](https://github.com/fnc12)<br>
   SQLite ORM light header only library for modern C++<br>
   ![Stars](https://img.shields.io/github/stars/fnc12/sqlite_orm?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
@@ -85,7 +85,7 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
 * **[Laddy](https://github.com/ironsoul0/laddy) ⭐ 82 | 🐛 53 | 🌐 TypeScript | 📅 2023-01-11** by [Temirzhan Yussupov](https://github.com/ironsoul0)<br>
   Hand-picked problems for your Codeforces rating<br>
   ![Stars](https://img.shields.io/github/stars/ironsoul0/laddy?style=flat-square\&color=fec604\&labelColor=00b0cb)
-* **[sozdik-android](https://github.com/sozdik-kz/sozdik-android) ⭐ 54 | 🐛 5 | 🌐 Kotlin | 📅 2022-11-08** by [Askar Syzdykov](https://github.com/askarsyzdykov)<br>
+* **[sozdik-android](https://github.com/sozdik-kz/sozdik-android) ⭐ 55 | 🐛 5 | 🌐 Kotlin | 📅 2022-11-08** by [Askar Syzdykov](https://github.com/askarsyzdykov)<br>
   Online Kazakh-2-Russian (and vice versa) dictionary<br>
   ![Stars](https://img.shields.io/github/stars/sozdik-kz/sozdik-android?style=flat-square\&color=fec604\&labelColor=00b0cb)
 * **[Taza](https://github.com/danabeknar/taza) ⭐ 51 | 🐛 0 | 🌐 Swift | 📅 2020-10-09** by [Beknar Danabek](https://github.com/danabeknar/)<br>
@@ -138,4 +138,4 @@ This repository was inspired by similar curated lists from [Russia](https://gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._

@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "zhanymkanov",
             "repo": "fastapi-best-practices",
-            "stars": 18183,
+            "stars": 18189,
             "topics": [
               "best-practices",
               "fastapi"
@@ -43,7 +43,7 @@
             "open_issues": 20,
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 6009,
+            "stars": 6036,
             "topics": [
               "cluster-management",
               "deep-learning",
@@ -70,11 +70,11 @@
             "id": 646089579,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-14T15:39:23Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-14T18:01:46Z",
+            "open_issues": 11,
             "owner": "irbis-sh",
             "repo": "zen-desktop",
-            "stars": 4262,
+            "stars": 4265,
             "topics": [
               "ad-block",
               "adblock",
@@ -103,11 +103,11 @@
             "id": 76951323,
             "language": "C++",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-14T13:40:00Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-15T14:56:00Z",
+            "open_issues": 24,
             "owner": "fnc12",
             "repo": "sqlite_orm",
-            "stars": 2697,
+            "stars": 2695,
             "topics": [
               "cplusplus",
               "cplusplus-14",
@@ -508,7 +508,7 @@
             "open_issues": 5,
             "owner": "sozdik-kz",
             "repo": "sozdik-android",
-            "stars": 54,
+            "stars": 55,
             "topics": [
               "hacktoberfest",
               "kazakh-dictionary",
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T15:59:11.668Z",
+    "last_updated": "2026-10-15T15:47:39.142Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇿 😎  Awesome open source projects made in Kazakhstan",
