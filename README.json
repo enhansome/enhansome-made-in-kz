@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "zhanymkanov",
             "repo": "fastapi-best-practices",
-            "stars": 18215,
+            "stars": 18219,
             "topics": [
               "best-practices",
               "fastapi"
@@ -43,7 +43,7 @@
             "open_issues": 21,
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 6114,
+            "stars": 6130,
             "topics": [
               "cluster-management",
               "deep-learning",
@@ -70,11 +70,11 @@
             "id": 646089579,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-14T18:01:46Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-20T23:12:42Z",
+            "open_issues": 12,
             "owner": "irbis-sh",
             "repo": "zen-desktop",
-            "stars": 4283,
+            "stars": 4285,
             "topics": [
               "ad-block",
               "adblock",
@@ -141,7 +141,7 @@
             "open_issues": 3,
             "owner": "aitemr",
             "repo": "awesome-git-hooks",
-            "stars": 982,
+            "stars": 983,
             "topics": [
               "awesome",
               "awesome-list",
@@ -193,7 +193,7 @@
             "open_issues": 14,
             "owner": "onl1ner",
             "repo": "TabBar",
-            "stars": 469,
+            "stars": 468,
             "topics": [
               "bar",
               "custom-tab-bar",
@@ -283,7 +283,7 @@
             "open_issues": 8,
             "owner": "ncanode-kz",
             "repo": "NCANode",
-            "stars": 323,
+            "stars": 325,
             "topics": [
               "api",
               "crl",
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T15:51:16.488Z",
+    "last_updated": "2026-10-21T16:08:32.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇿 😎  Awesome open source projects made in Kazakhstan",
