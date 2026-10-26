@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "zhanymkanov",
             "repo": "fastapi-best-practices",
-            "stars": 18233,
+            "stars": 18240,
             "topics": [
               "best-practices",
               "fastapi"
@@ -43,7 +43,7 @@
             "open_issues": 21,
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 6184,
+            "stars": 6221,
             "topics": [
               "cluster-management",
               "deep-learning",
@@ -74,7 +74,7 @@
             "open_issues": 12,
             "owner": "irbis-sh",
             "repo": "zen-desktop",
-            "stars": 4301,
+            "stars": 4310,
             "topics": [
               "ad-block",
               "adblock",
@@ -103,8 +103,8 @@
             "id": 76951323,
             "language": "C++",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-24T20:48:45Z",
-            "open_issues": 26,
+            "last_commit": "2026-10-26T15:43:53Z",
+            "open_issues": 24,
             "owner": "fnc12",
             "repo": "sqlite_orm",
             "stars": 2697,
@@ -138,10 +138,10 @@
             "language": "Shell",
             "license": "CC0-1.0",
             "last_commit": "2026-01-19T11:34:43Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "aitemr",
             "repo": "awesome-git-hooks",
-            "stars": 983,
+            "stars": 984,
             "topics": [
               "awesome",
               "awesome-list",
@@ -614,7 +614,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T15:04:29.746Z",
+    "last_updated": "2026-10-26T17:40:23.344Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇿 😎  Awesome open source projects made in Kazakhstan",
