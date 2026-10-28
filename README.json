@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "zhanymkanov",
             "repo": "fastapi-best-practices",
-            "stars": 18247,
+            "stars": 18254,
             "topics": [
               "best-practices",
               "fastapi"
@@ -43,7 +43,7 @@
             "open_issues": 21,
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 6239,
+            "stars": 6248,
             "topics": [
               "cluster-management",
               "deep-learning",
@@ -66,15 +66,15 @@
           "repo_info": {
             "archived": false,
             "description": "System-wide ad-blocker and privacy guard for Windows, macOS and Linux.",
-            "homepage": "https://irbis.sh/zen",
+            "homepage": "https://irbis.sh/zen/",
             "id": 646089579,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-26T22:13:48Z",
+            "last_commit": "2026-10-28T13:34:28Z",
             "open_issues": 13,
             "owner": "irbis-sh",
             "repo": "zen-desktop",
-            "stars": 4311,
+            "stars": 4322,
             "topics": [
               "ad-block",
               "ad-blocker",
@@ -83,18 +83,18 @@
               "adblocker",
               "adblocking",
               "ads",
-              "anti-phishing",
               "anti-tracking",
               "content-blocker",
               "digital-wellbeing",
               "distraction-blocker",
               "hosts-file",
-              "malware-protection",
+              "linux",
+              "macos",
               "privacy",
-              "privacy-enhancing-technologies",
               "privacy-protection",
               "privacy-tools",
               "tracker-blocker",
+              "windows",
               "zen"
             ]
           },
@@ -112,8 +112,8 @@
             "id": 76951323,
             "language": "C++",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-27T16:23:08Z",
-            "open_issues": 22,
+            "last_commit": "2026-10-28T07:28:00Z",
+            "open_issues": 21,
             "owner": "fnc12",
             "repo": "sqlite_orm",
             "stars": 2698,
@@ -150,7 +150,7 @@
             "open_issues": 4,
             "owner": "aitemr",
             "repo": "awesome-git-hooks",
-            "stars": 984,
+            "stars": 985,
             "topics": [
               "awesome",
               "awesome-list",
@@ -623,7 +623,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T16:53:04.396Z",
+    "last_updated": "2026-10-28T17:26:31.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇿 😎  Awesome open source projects made in Kazakhstan",
