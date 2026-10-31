@@ -43,7 +43,7 @@
             "open_issues": 21,
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 6253,
+            "stars": 6260,
             "topics": [
               "cluster-management",
               "deep-learning",
@@ -74,7 +74,7 @@
             "open_issues": 12,
             "owner": "irbis-sh",
             "repo": "zen-desktop",
-            "stars": 4332,
+            "stars": 4335,
             "topics": [
               "ad-block",
               "ad-blocker",
@@ -623,7 +623,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T17:16:27.293Z",
+    "last_updated": "2026-10-31T16:20:33.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇿 😎  Awesome open source projects made in Kazakhstan",
