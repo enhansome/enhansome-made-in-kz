@@ -14,7 +14,7 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
 
 ## > 100 ⭐️
 
-* **[fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) ⭐ 18,291 | 🐛 16 | 📅 2026-08-27** by [Yerassyl Zhanymkanov](https://github.com/zhanymkanov)<br>
+* **[fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) ⭐ 18,293 | 🐛 16 | 📅 2026-08-27** by [Yerassyl Zhanymkanov](https://github.com/zhanymkanov)<br>
   FastAPI Best Practices<br>
   ![Stars](https://img.shields.io/github/stars/zhanymkanov/fastapi-best-practices?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
@@ -22,7 +22,7 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
   Fault-tolerant, highly scalable cluster management, and a machine learning framework designed for training models with billions to trillions of parameters<br>
   ![Stars](https://img.shields.io/github/stars/higgsfield/higgsfield?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[Zen](https://github.com/ZenPrivacy/zen-desktop) ⭐ 4,351 | 🐛 16 | 🌐 Go | 📅 2026-11-04** by [Ansar Smagulov](https://github.com/anfragment) and [Sultan Momynov](https://github.com/AitakattaSora)<br>
+* **[Zen](https://github.com/ZenPrivacy/zen-desktop) ⭐ 4,352 | 🐛 18 | 🌐 Go | 📅 2026-11-04** by [Ansar Smagulov](https://github.com/anfragment) and [Sultan Momynov](https://github.com/AitakattaSora)<br>
   Zen is a simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux<br>
   ![Stars](https://img.shields.io/github/stars/ZenPrivacy/zen-desktop?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
@@ -38,7 +38,7 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
   Collection of different algorithms, used for programming competitions like ACM ICPC.<br>
   ![Stars](https://img.shields.io/github/stars/ADJA/algos?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[TabBar](https://github.com/onl1ner/TabBar) ⭐ 468 | 🐛 14 | 🌐 Swift | 📅 2024-08-04** by [Tamerlan Satualdypov](https://github.com/onl1ner)<br>
+* **[TabBar](https://github.com/onl1ner/TabBar) ⭐ 469 | 🐛 14 | 🌐 Swift | 📅 2024-08-04** by [Tamerlan Satualdypov](https://github.com/onl1ner)<br>
   TabBar – highly customizable tab bar (i.e. TabView) for your SwiftUI application.<br>
   ![Stars](https://img.shields.io/github/stars/onl1ner/TabBar?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
@@ -134,8 +134,8 @@ All in all, submission to the *Promising* section will be discussed in the PR al
 
 ## Credits
 
-This repository was inspired by similar curated lists from [Russia](https://github.com/igoradamenko/awesome-made-by-russians) and [Brazil](https://github.com/felipefialho/awesome-made-by-brazilians) ⭐ 1,891 | 🐛 2 | 📅 2026-09-08. All original idea credit goes to authors.
+This repository was inspired by similar curated lists from [Russia](https://github.com/igoradamenko/awesome-made-by-russians) and [Brazil](https://github.com/felipefialho/awesome-made-by-brazilians) ⭐ 1,893 | 🐛 2 | 📅 2026-09-08. All original idea credit goes to authors.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._

@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "zhanymkanov",
             "repo": "fastapi-best-practices",
-            "stars": 18291,
+            "stars": 18293,
             "topics": [
               "best-practices",
               "fastapi"
@@ -43,7 +43,7 @@
             "open_issues": 21,
             "owner": "higgsfield-ai",
             "repo": "higgsfield",
-            "stars": 6286,
+            "stars": 6288,
             "topics": [
               "cluster-management",
               "deep-learning",
@@ -70,11 +70,11 @@
             "id": 646089579,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-04T18:49:54Z",
-            "open_issues": 16,
+            "last_commit": "2026-11-04T20:24:22Z",
+            "open_issues": 18,
             "owner": "irbis-sh",
             "repo": "zen-desktop",
-            "stars": 4351,
+            "stars": 4352,
             "topics": [
               "ad-block",
               "ad-blocker",
@@ -202,7 +202,7 @@
             "open_issues": 14,
             "owner": "onl1ner",
             "repo": "TabBar",
-            "stars": 468,
+            "stars": 469,
             "topics": [
               "bar",
               "custom-tab-bar",
@@ -623,7 +623,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T18:53:46.186Z",
+    "last_updated": "2026-11-05T19:04:59.167Z",
     "original_repository_info": {
       "archived": false,
       "description": "🇰🇿 😎  Awesome open source projects made in Kazakhstan",
