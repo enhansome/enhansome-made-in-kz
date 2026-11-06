@@ -22,11 +22,11 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
   Fault-tolerant, highly scalable cluster management, and a machine learning framework designed for training models with billions to trillions of parameters<br>
   ![Stars](https://img.shields.io/github/stars/higgsfield/higgsfield?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[Zen](https://github.com/ZenPrivacy/zen-desktop) ⭐ 4,352 | 🐛 18 | 🌐 Go | 📅 2026-11-04** by [Ansar Smagulov](https://github.com/anfragment) and [Sultan Momynov](https://github.com/AitakattaSora)<br>
+* **[Zen](https://github.com/ZenPrivacy/zen-desktop) ⭐ 4,354 | 🐛 18 | 🌐 Go | 📅 2026-11-05** by [Ansar Smagulov](https://github.com/anfragment) and [Sultan Momynov](https://github.com/AitakattaSora)<br>
   Zen is a simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux<br>
   ![Stars](https://img.shields.io/github/stars/ZenPrivacy/zen-desktop?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[sqlite-orm](https://github.com/fnc12/sqlite_orm) ⭐ 2,698 | 🐛 22 | 🌐 C++ | 📅 2026-11-01** by [Yevgeniy Zakharov](https://github.com/fnc12)<br>
+* **[sqlite-orm](https://github.com/fnc12/sqlite_orm) ⭐ 2,698 | 🐛 23 | 🌐 C++ | 📅 2026-11-06** by [Yevgeniy Zakharov](https://github.com/fnc12)<br>
   SQLite ORM light header only library for modern C++<br>
   ![Stars](https://img.shields.io/github/stars/fnc12/sqlite_orm?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
@@ -138,4 +138,4 @@ This repository was inspired by similar curated lists from [Russia](https://gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
