@@ -14,7 +14,7 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
 
 ## > 100 ⭐️
 
-* **[fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) ⭐ 18,293 | 🐛 16 | 📅 2026-08-27** by [Yerassyl Zhanymkanov](https://github.com/zhanymkanov)<br>
+* **[fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) ⭐ 18,296 | 🐛 16 | 📅 2026-08-27** by [Yerassyl Zhanymkanov](https://github.com/zhanymkanov)<br>
   FastAPI Best Practices<br>
   ![Stars](https://img.shields.io/github/stars/zhanymkanov/fastapi-best-practices?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
@@ -22,7 +22,7 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
   Fault-tolerant, highly scalable cluster management, and a machine learning framework designed for training models with billions to trillions of parameters<br>
   ![Stars](https://img.shields.io/github/stars/higgsfield/higgsfield?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[Zen](https://github.com/ZenPrivacy/zen-desktop) ⭐ 4,354 | 🐛 18 | 🌐 Go | 📅 2026-11-05** by [Ansar Smagulov](https://github.com/anfragment) and [Sultan Momynov](https://github.com/AitakattaSora)<br>
+* **[Zen](https://github.com/ZenPrivacy/zen-desktop) ⭐ 4,356 | 🐛 18 | 🌐 Go | 📅 2026-11-05** by [Ansar Smagulov](https://github.com/anfragment) and [Sultan Momynov](https://github.com/AitakattaSora)<br>
   Zen is a simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux<br>
   ![Stars](https://img.shields.io/github/stars/ZenPrivacy/zen-desktop?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
@@ -138,4 +138,4 @@ This repository was inspired by similar curated lists from [Russia](https://gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
