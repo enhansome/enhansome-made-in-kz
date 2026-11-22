@@ -14,7 +14,7 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
 
 ## > 100 ⭐️
 
-* **[fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) ⭐ 18,334 | 🐛 15 | 📅 2026-08-27** by [Yerassyl Zhanymkanov](https://github.com/zhanymkanov)<br>
+* **[fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) ⭐ 18,339 | 🐛 15 | 📅 2026-08-27** by [Yerassyl Zhanymkanov](https://github.com/zhanymkanov)<br>
   FastAPI Best Practices<br>
   ![Stars](https://img.shields.io/github/stars/zhanymkanov/fastapi-best-practices?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
@@ -22,11 +22,11 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
   Fault-tolerant, highly scalable cluster management, and a machine learning framework designed for training models with billions to trillions of parameters<br>
   ![Stars](https://img.shields.io/github/stars/higgsfield/higgsfield?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[Zen](https://github.com/ZenPrivacy/zen-desktop) ⭐ 4,390 | 🐛 13 | 🌐 Go | 📅 2026-11-19** by [Ansar Smagulov](https://github.com/anfragment) and [Sultan Momynov](https://github.com/AitakattaSora)<br>
+* **[Zen](https://github.com/ZenPrivacy/zen-desktop) ⭐ 4,390 | 🐛 14 | 🌐 Go | 📅 2026-11-19** by [Ansar Smagulov](https://github.com/anfragment) and [Sultan Momynov](https://github.com/AitakattaSora)<br>
   Zen is a simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux<br>
   ![Stars](https://img.shields.io/github/stars/ZenPrivacy/zen-desktop?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[sqlite-orm](https://github.com/fnc12/sqlite_orm) ⭐ 2,700 | 🐛 26 | 🌐 C++ | 📅 2026-11-21** by [Yevgeniy Zakharov](https://github.com/fnc12)<br>
+* **[sqlite-orm](https://github.com/fnc12/sqlite_orm) ⭐ 2,700 | 🐛 25 | 🌐 C++ | 📅 2026-11-22** by [Yevgeniy Zakharov](https://github.com/fnc12)<br>
   SQLite ORM light header only library for modern C++<br>
   ![Stars](https://img.shields.io/github/stars/fnc12/sqlite_orm?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
@@ -66,7 +66,7 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
   Subscription View Controller like the Tinder uses<br>
   ![Stars](https://img.shields.io/github/stars/binchik/SubscriptionPrompt?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[nextjs-sitemap](https://github.com/SergeyMyssak/nextjs-sitemap) ⭐ 122 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-12** by [Sergey Myssak](https://github.com/SergeyMyssak) and [Andrey Myssak](https://github.com/andreymyssak)<br>Generate dynamic sitemap.xml for Next.js projects following the example of Google! <br>
+* **[nextjs-sitemap](https://github.com/SergeyMyssak/nextjs-sitemap) ⭐ 122 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-22** by [Sergey Myssak](https://github.com/SergeyMyssak) and [Andrey Myssak](https://github.com/andreymyssak)<br>Generate dynamic sitemap.xml for Next.js projects following the example of Google! <br>
   ![Stars](https://img.shields.io/github/stars/SergeyMyssak/nextjs-sitemap?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
 * **[react-native-code-verification](https://github.com/danchokobo/react-native-code-verification) ⭐ 118 | 🐛 1 | 🌐 JavaScript | 📅 2019-04-29** by [Danagul Otel](https://github.com/danchokobo)<br>
@@ -138,4 +138,4 @@ This repository was inspired by similar curated lists from [Russia](https://gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
