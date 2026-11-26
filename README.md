@@ -14,7 +14,7 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
 
 ## > 100 ⭐️
 
-* **[fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) ⭐ 18,345 | 🐛 15 | 📅 2026-08-27** by [Yerassyl Zhanymkanov](https://github.com/zhanymkanov)<br>
+* **[fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) ⭐ 18,350 | 🐛 15 | 📅 2026-08-27** by [Yerassyl Zhanymkanov](https://github.com/zhanymkanov)<br>
   FastAPI Best Practices<br>
   ![Stars](https://img.shields.io/github/stars/zhanymkanov/fastapi-best-practices?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
@@ -22,15 +22,15 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
   Fault-tolerant, highly scalable cluster management, and a machine learning framework designed for training models with billions to trillions of parameters<br>
   ![Stars](https://img.shields.io/github/stars/higgsfield/higgsfield?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[Zen](https://github.com/ZenPrivacy/zen-desktop) ⭐ 4,396 | 🐛 11 | 🌐 Go | 📅 2026-11-25** by [Ansar Smagulov](https://github.com/anfragment) and [Sultan Momynov](https://github.com/AitakattaSora)<br>
+* **[Zen](https://github.com/ZenPrivacy/zen-desktop) ⭐ 4,412 | 🐛 11 | 🌐 Go | 📅 2026-11-25** by [Ansar Smagulov](https://github.com/anfragment) and [Sultan Momynov](https://github.com/AitakattaSora)<br>
   Zen is a simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux<br>
   ![Stars](https://img.shields.io/github/stars/ZenPrivacy/zen-desktop?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[sqlite-orm](https://github.com/fnc12/sqlite_orm) ⭐ 2,701 | 🐛 25 | 🌐 C++ | 📅 2026-11-22** by [Yevgeniy Zakharov](https://github.com/fnc12)<br>
+* **[sqlite-orm](https://github.com/fnc12/sqlite_orm) ⭐ 2,701 | 🐛 24 | 🌐 C++ | 📅 2026-11-26** by [Yevgeniy Zakharov](https://github.com/fnc12)<br>
   SQLite ORM light header only library for modern C++<br>
   ![Stars](https://img.shields.io/github/stars/fnc12/sqlite_orm?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
-* **[awesome-git-hooks](https://github.com/aitemr/awesome-git-hooks) ⭐ 988 | 🐛 4 | 🌐 Shell | 📅 2026-01-19** by [Islam Temirbek](https://github.com/aitemr)<br>
+* **[awesome-git-hooks](https://github.com/aitemr/awesome-git-hooks) ⭐ 988 | 🐛 5 | 🌐 Shell | 📅 2026-01-19** by [Islam Temirbek](https://github.com/aitemr)<br>
   A curated list of awesome Git hooks<br>
   ![Stars](https://img.shields.io/github/stars/aitemr/awesome-git-hooks?style=flat-square\&color=fec604\&labelColor=00b0cb)
 
@@ -138,4 +138,4 @@ This repository was inspired by similar curated lists from [Russia](https://gith
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
